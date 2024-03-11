@@ -37,9 +37,11 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: linear-gradient(rgb(0, 0, 0), rgb(43, 46, 48)); 
+    background-image: linear-gradient(rgb(0, 51, 102), rgb(43, 46, 48)); 
     min-height: 100vh;
 }
+
+/* background-image: linear-gradient(rgb(0, 0, 0), rgb(43, 46, 48));*/
 
 .container {
     display: flex;
